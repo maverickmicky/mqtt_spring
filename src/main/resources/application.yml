@@ -1,0 +1,7 @@
+mqtt:
+    endpoint: tcp://iot.eclipse.org:1883
+    topic-pub: micky_pub_topic
+    topic-sub: micky_sub_topic
+    client-pub: micky_pub_client
+    client-sub: micky_sub_client
+
